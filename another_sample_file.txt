@@ -1,0 +1,2 @@
+This is another sample file.
+With non-useful information.
